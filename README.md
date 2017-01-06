@@ -10,4 +10,4 @@ Was ist ein kapazitiver-Sensor? Wie funktioniert kapazitiver-Sensor?
 Ranger- und Roverstufe, Pfadfinderinnen und Pfadfinder
 
 
-http://dev-blog.vcp.de/raspberry-pi-temperatur-luftfeuchtigkeit-messen/
+http://dev-blog.vcp.de/bananen-klavier/
