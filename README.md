@@ -4,7 +4,7 @@
 
 ## Ziel:
 Wie kann man mit Früchten, Bleistiftzeichnung oder anderen leitenden Dingen Musik machen?
-Was ist ein kapazitiver-Sensor? Wie funktioniert kapazitiver-Sensor?
+Was ist ein kapazitiver-Sensor? Wie funktioniert ein kapazitiver-Sensor?
 
 ## Zielgruppe:
 Ranger- und Roverstufe, Pfadfinderinnen und Pfadfinder
