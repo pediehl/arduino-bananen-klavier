@@ -10,4 +10,4 @@ Was ist ein kapazitiver-Sensor? Wie funktioniert ein kapazitiver-Sensor?
 Ranger- und Roverstufe, Pfadfinderinnen und Pfadfinder
 
 
-http://dev-blog.vcp.de/bananen-klavier/
+<!--http://dev-blog.vcp.de/bananen-klavier/-->
